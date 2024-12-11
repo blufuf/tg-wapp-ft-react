@@ -11,8 +11,8 @@ body{
 }
 
 .prew_photo{
-  width: 375px;
-  height: 720px;
+  width: auto;
+  height: auto;
   /*filter: brightness(30%)
           blur(1.5px)
           grayscale(50%);*/
