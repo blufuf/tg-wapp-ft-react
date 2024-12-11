@@ -1,7 +1,9 @@
 export default function Header(){
     return(
         <header>
-            <h3>FourTricks</h3>
+            <div class = "block">
+                <h3>FourTricks</h3>
+            </div>
         </header>
     )
 }
