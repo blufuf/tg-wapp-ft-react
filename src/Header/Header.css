@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
 header{
-    position: absolute;
+
     width: 393px;
     height: 65px;
     left: 0;
@@ -7,16 +9,13 @@ header{
     top: 0;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
 
 }
-.block{
-    margin-left: auto;
-    margin-right: auto;
-}
+
 h3{
-    position: absolute;
-    width: 170px;
-    height: 37px;
+
     top: 14px;
     bottom: 14px;
     display: flex;
@@ -28,5 +27,5 @@ h3{
     font-weight: 400;
     line-height: 44px;
     letter-spacing: 0px;
-    text-align: left;
+    text-align: center;
 }
