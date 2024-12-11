@@ -1,6 +1,5 @@
 
 import './App.css';
-import {useEffect} from "react";
 import './Header/Header.css'
 import Header from "./Header/Header";
 
