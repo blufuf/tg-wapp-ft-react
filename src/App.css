@@ -9,3 +9,8 @@ body{
   color: var(--tg-theme-text-color);
 
 }
+
+.prew_photo{
+  width: auto;
+  height: auto;
+}
