@@ -1,4 +1,4 @@
-
+import './Header.css'
 import burger from './burger.svg'
 import cart from './shopping-cart.svg'
 

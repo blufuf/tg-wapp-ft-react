@@ -1,6 +1,5 @@
 
 import './App.css';
-import './Header/Header.css'
 import Header from "./Header/Header";
 
 
