@@ -12,7 +12,6 @@ export default function Header(){
             <div class = 'shopping-cart'>
                 <img src={cart} alt="Cart"/>
             </div>
-
         </header>
     )
 }
