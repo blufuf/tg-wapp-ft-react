@@ -1,7 +1,7 @@
 
 import './App.css';
 import Header from "./Header/Header";
-import Prew from './vectors/prew2.png'
+import Prew from './vectors/prew_photo.png'
 
 
 const tg = window.Telegram.WebApp;

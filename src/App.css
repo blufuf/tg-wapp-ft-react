@@ -13,7 +13,6 @@ body{
 .prew_photo{
   width: auto;
   height: auto;
-  margin-left: -270px;
   text-align: center;
   /*filter: brightness(30%)
           blur(1.5px)
